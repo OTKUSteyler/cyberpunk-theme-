@@ -9,7 +9,7 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": ["#EFDFD7", "#E7D6CE", "#A07D6C"]
+    "HEADER_PRIMARY": ["#64267D", "#E7D6CE", "#A07D6C"]
   },
   "rawColors": {
     "PRIMARY_500": "#9E8376"
