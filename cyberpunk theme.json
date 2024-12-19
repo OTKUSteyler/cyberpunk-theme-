@@ -1,0 +1,22 @@
+{
+  "name": "cyberpunk edge runner theme",
+  "description": "A theme made by Vodka",
+  "authors": [
+    {
+      "name": "btmc727",
+      "id": "554071670143451176"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#EFDFD7", "#E7D6CE", "#A07D6C"]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#9E8376"
+  },
+  "background": {
+    "blur": 0.6,
+    "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1099189661995380897/82ef73f876a5ef467a8263b694e4f0b8.jpg",
+    "alpha": 0.4
+  }
+}
