@@ -14,6 +14,7 @@
   },
   "rawColors": {
     "PRIMARY_500": "#00B4D8"
+    "CHANNEL_TEXT": "#890200"
   },
   "background": {
     "blur": 0.4,
