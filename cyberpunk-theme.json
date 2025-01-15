@@ -10,7 +10,7 @@
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": ["#64267D", "#850089", "#89007A"],
-    "USER_TEXT": ["#00FF87"]
+    "USER_TEXT": "#00FF87"
   },
   "rawColors": {
     "PRIMARY_500": "#00B4D8"
