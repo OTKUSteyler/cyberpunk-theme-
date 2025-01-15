@@ -9,7 +9,8 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": ["#64267D", "#850089", "#89007A"]
+    "HEADER_PRIMARY": ["#64267D", "#850089", "#89007A"],
+    "MESSAGE_TEXT": ["#00FF87"]
   },
   "rawColors": {
     "PRIMARY_500": "#00B4D8"
@@ -20,4 +21,3 @@
     "alpha": 0.4
   }
 }
-
